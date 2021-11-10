@@ -1,0 +1,16 @@
+C:\PROJETOS\CYBERTRON\Laboratorio2\Lab2Exercicio3_DataTime\Lab2Exercicio3_DataTime\obj\Debug\net5.0\Lab2Exercicio3_DataTime.csproj.AssemblyReference.cache
+C:\PROJETOS\CYBERTRON\Laboratorio2\Lab2Exercicio3_DataTime\Lab2Exercicio3_DataTime\obj\Debug\net5.0\Lab2Exercicio3_DataTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS\CYBERTRON\Laboratorio2\Lab2Exercicio3_DataTime\Lab2Exercicio3_DataTime\obj\Debug\net5.0\Lab2Exercicio3_DataTime.AssemblyInfoInputs.cache
+C:\PROJETOS\CYBERTRON\Laboratorio2\Lab2Exercicio3_DataTime\Lab2Exercicio3_DataTime\obj\Debug\net5.0\Lab2Exercicio3_DataTime.AssemblyInfo.cs
+C:\PROJETOS\CYBERTRON\Laboratorio2\Lab2Exercicio3_DataTime\Lab2Exercicio3_DataTime\obj\Debug\net5.0\Lab2Exercicio3_DataTime.csproj.CoreCompileInputs.cache
+C:\PROJETOS\CYBERTRON\Laboratorio2\Lab2Exercicio3_DataTime\Lab2Exercicio3_DataTime\bin\Debug\net5.0\Lab2Exercicio3_DataTime.exe
+C:\PROJETOS\CYBERTRON\Laboratorio2\Lab2Exercicio3_DataTime\Lab2Exercicio3_DataTime\bin\Debug\net5.0\Lab2Exercicio3_DataTime.deps.json
+C:\PROJETOS\CYBERTRON\Laboratorio2\Lab2Exercicio3_DataTime\Lab2Exercicio3_DataTime\bin\Debug\net5.0\Lab2Exercicio3_DataTime.runtimeconfig.json
+C:\PROJETOS\CYBERTRON\Laboratorio2\Lab2Exercicio3_DataTime\Lab2Exercicio3_DataTime\bin\Debug\net5.0\Lab2Exercicio3_DataTime.runtimeconfig.dev.json
+C:\PROJETOS\CYBERTRON\Laboratorio2\Lab2Exercicio3_DataTime\Lab2Exercicio3_DataTime\bin\Debug\net5.0\Lab2Exercicio3_DataTime.dll
+C:\PROJETOS\CYBERTRON\Laboratorio2\Lab2Exercicio3_DataTime\Lab2Exercicio3_DataTime\bin\Debug\net5.0\ref\Lab2Exercicio3_DataTime.dll
+C:\PROJETOS\CYBERTRON\Laboratorio2\Lab2Exercicio3_DataTime\Lab2Exercicio3_DataTime\bin\Debug\net5.0\Lab2Exercicio3_DataTime.pdb
+C:\PROJETOS\CYBERTRON\Laboratorio2\Lab2Exercicio3_DataTime\Lab2Exercicio3_DataTime\obj\Debug\net5.0\Lab2Exercicio3_DataTime.dll
+C:\PROJETOS\CYBERTRON\Laboratorio2\Lab2Exercicio3_DataTime\Lab2Exercicio3_DataTime\obj\Debug\net5.0\ref\Lab2Exercicio3_DataTime.dll
+C:\PROJETOS\CYBERTRON\Laboratorio2\Lab2Exercicio3_DataTime\Lab2Exercicio3_DataTime\obj\Debug\net5.0\Lab2Exercicio3_DataTime.pdb
+C:\PROJETOS\CYBERTRON\Laboratorio2\Lab2Exercicio3_DataTime\Lab2Exercicio3_DataTime\obj\Debug\net5.0\Lab2Exercicio3_DataTime.genruntimeconfig.cache
