@@ -1,0 +1,16 @@
+C:\PROJETOS\CYBERTRON\Lab2Exercicio3\Lab2Exercicio3\bin\Debug\net5.0\Lab2Exercicio3.exe
+C:\PROJETOS\CYBERTRON\Lab2Exercicio3\Lab2Exercicio3\bin\Debug\net5.0\Lab2Exercicio3.deps.json
+C:\PROJETOS\CYBERTRON\Lab2Exercicio3\Lab2Exercicio3\bin\Debug\net5.0\Lab2Exercicio3.runtimeconfig.json
+C:\PROJETOS\CYBERTRON\Lab2Exercicio3\Lab2Exercicio3\bin\Debug\net5.0\Lab2Exercicio3.runtimeconfig.dev.json
+C:\PROJETOS\CYBERTRON\Lab2Exercicio3\Lab2Exercicio3\bin\Debug\net5.0\Lab2Exercicio3.dll
+C:\PROJETOS\CYBERTRON\Lab2Exercicio3\Lab2Exercicio3\bin\Debug\net5.0\ref\Lab2Exercicio3.dll
+C:\PROJETOS\CYBERTRON\Lab2Exercicio3\Lab2Exercicio3\bin\Debug\net5.0\Lab2Exercicio3.pdb
+C:\PROJETOS\CYBERTRON\Lab2Exercicio3\Lab2Exercicio3\obj\Debug\net5.0\Lab2Exercicio3.csproj.AssemblyReference.cache
+C:\PROJETOS\CYBERTRON\Lab2Exercicio3\Lab2Exercicio3\obj\Debug\net5.0\Lab2Exercicio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS\CYBERTRON\Lab2Exercicio3\Lab2Exercicio3\obj\Debug\net5.0\Lab2Exercicio3.AssemblyInfoInputs.cache
+C:\PROJETOS\CYBERTRON\Lab2Exercicio3\Lab2Exercicio3\obj\Debug\net5.0\Lab2Exercicio3.AssemblyInfo.cs
+C:\PROJETOS\CYBERTRON\Lab2Exercicio3\Lab2Exercicio3\obj\Debug\net5.0\Lab2Exercicio3.csproj.CoreCompileInputs.cache
+C:\PROJETOS\CYBERTRON\Lab2Exercicio3\Lab2Exercicio3\obj\Debug\net5.0\Lab2Exercicio3.dll
+C:\PROJETOS\CYBERTRON\Lab2Exercicio3\Lab2Exercicio3\obj\Debug\net5.0\ref\Lab2Exercicio3.dll
+C:\PROJETOS\CYBERTRON\Lab2Exercicio3\Lab2Exercicio3\obj\Debug\net5.0\Lab2Exercicio3.pdb
+C:\PROJETOS\CYBERTRON\Lab2Exercicio3\Lab2Exercicio3\obj\Debug\net5.0\Lab2Exercicio3.genruntimeconfig.cache
