@@ -1,0 +1,15 @@
+C:\PROJETOS\CYBERTRON\Laboratorio2\Lab2Exercicio7\Lab2Exercicio7\bin\Debug\net5.0\Lab2Exercicio7.exe
+C:\PROJETOS\CYBERTRON\Laboratorio2\Lab2Exercicio7\Lab2Exercicio7\bin\Debug\net5.0\Lab2Exercicio7.deps.json
+C:\PROJETOS\CYBERTRON\Laboratorio2\Lab2Exercicio7\Lab2Exercicio7\bin\Debug\net5.0\Lab2Exercicio7.runtimeconfig.json
+C:\PROJETOS\CYBERTRON\Laboratorio2\Lab2Exercicio7\Lab2Exercicio7\bin\Debug\net5.0\Lab2Exercicio7.runtimeconfig.dev.json
+C:\PROJETOS\CYBERTRON\Laboratorio2\Lab2Exercicio7\Lab2Exercicio7\bin\Debug\net5.0\Lab2Exercicio7.dll
+C:\PROJETOS\CYBERTRON\Laboratorio2\Lab2Exercicio7\Lab2Exercicio7\bin\Debug\net5.0\ref\Lab2Exercicio7.dll
+C:\PROJETOS\CYBERTRON\Laboratorio2\Lab2Exercicio7\Lab2Exercicio7\bin\Debug\net5.0\Lab2Exercicio7.pdb
+C:\PROJETOS\CYBERTRON\Laboratorio2\Lab2Exercicio7\Lab2Exercicio7\obj\Debug\net5.0\Lab2Exercicio7.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS\CYBERTRON\Laboratorio2\Lab2Exercicio7\Lab2Exercicio7\obj\Debug\net5.0\Lab2Exercicio7.AssemblyInfoInputs.cache
+C:\PROJETOS\CYBERTRON\Laboratorio2\Lab2Exercicio7\Lab2Exercicio7\obj\Debug\net5.0\Lab2Exercicio7.AssemblyInfo.cs
+C:\PROJETOS\CYBERTRON\Laboratorio2\Lab2Exercicio7\Lab2Exercicio7\obj\Debug\net5.0\Lab2Exercicio7.csproj.CoreCompileInputs.cache
+C:\PROJETOS\CYBERTRON\Laboratorio2\Lab2Exercicio7\Lab2Exercicio7\obj\Debug\net5.0\Lab2Exercicio7.dll
+C:\PROJETOS\CYBERTRON\Laboratorio2\Lab2Exercicio7\Lab2Exercicio7\obj\Debug\net5.0\ref\Lab2Exercicio7.dll
+C:\PROJETOS\CYBERTRON\Laboratorio2\Lab2Exercicio7\Lab2Exercicio7\obj\Debug\net5.0\Lab2Exercicio7.pdb
+C:\PROJETOS\CYBERTRON\Laboratorio2\Lab2Exercicio7\Lab2Exercicio7\obj\Debug\net5.0\Lab2Exercicio7.genruntimeconfig.cache
